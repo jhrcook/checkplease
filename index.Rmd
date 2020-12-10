@@ -1,0 +1,22 @@
+---
+title: "Analysis of an immune checkpoint-blockade screen"
+description: |
+  An analysis of a 3-part *in vitro* and *in vivo* cancer-genetics screen to
+  identify genes involved in immune suppression.
+author:
+  - first_name: "Joshua"
+    last_name: "Cook"
+    url: https://joshuacook.netlify.app
+    orcid_id: 0000-0001-9815-6879
+date: "`r Sys.Date()`"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+---
+
+<p style="font-size:80%; color:gray">The logo is a modified version of "DNA" by Sundance McClure from the Noun Project.</p>

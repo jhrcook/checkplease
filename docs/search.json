@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Analysis of an immune checkpoint-blockade screen",
+      "description": "An analysis of a 3-part *in vitro* and *in vivo* cancer-genetics screen to\nidentify genes involved in immune suppression.\n",
+      "author": [
+        {
+          "name": {},
+          "url": "https://joshuacook.netlify.app"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\nThe logo is a modified version of “DNA” by Sundance McClure from the Noun Project.\n\n\n\n\n",
+      "last_modified": "2020-12-10T08:09:03-05:00"
+    }
+  ],
+  "collections": []
+}

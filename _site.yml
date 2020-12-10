@@ -1,0 +1,34 @@
+name: "checkplease"
+title: "Analysis of an immune checkpoint-blockade screen"
+base_url: https://jhrcook.github.io/checkplease/
+repository_url: https://github.com/jhrcook/checkplease
+description: |
+  Analysis of a 3-part *in vitro* and *in vivo* cancer-genetics screen to
+  identify genes involved in immune suppression.
+output_dir: "docs"
+navbar:
+  search: true
+  logo:
+    image: misc-assets/logo.png
+  right:
+    - text: "Data Preparation"
+      menu:
+        - text: "Data preparation 1"
+          href: file.html
+        - text: "Data preparation 2"
+          href: file.html
+    - text: "Modeling"
+      menu:
+        - text: "Modeling 1"
+          href: file.html
+        - text: "Modeling 2"
+          href: file.html
+    - text: "Results"
+      menu:
+        - text: "Result 1"
+          href: file.html
+        - text: "Result 2"
+          href: file.html
+    - icon: fab fa-github
+      href: https://github.com/jhrcook/checkplease
+output: distill::distill_article
